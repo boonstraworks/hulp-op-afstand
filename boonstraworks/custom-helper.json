@@ -1,0 +1,12 @@
+{
+  "app-name": "BoonstraWorks Hulp op afstand",
+  "conn-type": "outgoing",
+  "disable-installation": "Y",
+  "default-settings": {},
+  "override-settings": {
+    "display-name": "BoonstraWorks · Steven",
+    "hide-powered-by-me": "Y",
+    "hide-help-cards": "Y",
+    "enable-lan-discovery": "N"
+  }
+}

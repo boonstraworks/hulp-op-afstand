@@ -1,0 +1,14 @@
+{
+  "app-name": "BoonstraWorks Hulp op afstand",
+  "conn-type": "incoming",
+  "disable-installation": "Y",
+  "disable-settings": "Y",
+  "default-settings": {},
+  "override-settings": {
+    "theme": "light",
+    "verification-method": "use-temporary-password",
+    "hide-powered-by-me": "Y",
+    "hide-help-cards": "Y",
+    "enable-lan-discovery": "N"
+  }
+}
