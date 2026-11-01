@@ -1,0 +1,3 @@
+# De hoofd-.gitignore van RustDesk negeert alle afbeeldingen; de merkbestanden horen er wel in.
+!*png
+!*svg
